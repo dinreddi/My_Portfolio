@@ -104,7 +104,7 @@ function App() {
           onMouseLeave={handleMouseLeave}
         >
           <div className="experience-header">
-            <img src="/Datics.png" alt="Datics Logo" className="company-logo" />
+            <img src="Datics.png" alt="Datics Logo" className="company-logo" />
             <div className="company-info">
               <h2>Software Engineer</h2>
               <p className="date-range">Sep 2024 – Present</p>
@@ -127,7 +127,7 @@ function App() {
           onMouseLeave={handleMouseLeave}
         >
           <div className="experience-header">
-            <img src="/WissenIT.png" alt="Wissen IT Logo" className="company-logo" />
+            <img src="WissenIT.png" alt="Wissen IT Logo" className="company-logo" />
             <div className="company-info">
               <h2>Software Engineer</h2>
               <p className="date-range">May 2023 – Aug 2024</p>
@@ -154,7 +154,7 @@ function App() {
           onMouseLeave={handleMouseLeave}
         >
           <div className="experience-header">
-            <img src="/HighRadius.png" alt="High Radius Logo" className="company-logo" />
+            <img src="HighRadius.png" alt="High Radius Logo" className="company-logo" />
             <div className="company-info">
               <h2>Full Stack Developer</h2>
               <p className="date-range">May 2023 – Present</p>

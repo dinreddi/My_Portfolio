@@ -23,7 +23,7 @@ function App() {
       </div>
       <div id="home" className="profile-section">
         <div className="profile-picture">
-          <img src="image.png" alt="Profile" />
+          <img src="public/image.png" alt="Profile" />
         </div>
         <div className="profile-introduction">
           <h1>Dinesh Reddy Chinnamallaiahgari</h1>
